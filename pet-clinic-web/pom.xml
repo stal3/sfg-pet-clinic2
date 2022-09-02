@@ -63,8 +63,11 @@
             <artifactId>font-awesome</artifactId>
             <version>${webjars-font-awesome.version}</version>
         </dependency>
-        <!-- end of webjars -->
-
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
     </dependencies>
 
 
